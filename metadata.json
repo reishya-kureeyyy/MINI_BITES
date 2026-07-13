@@ -1,0 +1,6 @@
+{
+  "name": "MINI BITES",
+  "description": "Platform e-commerce fungsional untuk pemesanan Dessert Mini premium MINI BITES, dilengkapi fitur katalog, keranjang belanja terintegrasi, simulasi pembayaran, serta dashboard admin dan analitik bisnis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
