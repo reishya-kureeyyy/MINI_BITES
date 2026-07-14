@@ -1,7 +1,7 @@
 # 🍰 MiniSweet Co. - Platform E-Commerce Dessert Mini Premium
 
 Tugas Proyek UAS: **"Membangun Website E-Commerce Fungsional dengan Integrasi Strategi Bisnis Modern"**
-- **Mahasiswa Utama:** Naswan (naswan20022@gmail.com)
+- **Mahasiswa Utama:** Reishya Damayanti Kirani Putri (NIM: 209250230)
 - **Kategori Produk:** Dessert Mini Premium (Cake, Tartlet, Mousse, Pudding, Macaron, Choux)
 - **Teknologi:** React, TypeScript, Tailwind CSS, Framer Motion, Lucide Icons, LocalStorage
 
