@@ -1,4 +1,4 @@
-# 🍰 MiniSweet Co. - Platform E-Commerce Dessert Mini Premium
+# 🍰 Mini Bites - Platform E-Commerce Dessert Mini Premium
 
 Tugas Proyek UAS: **"Membangun Website E-Commerce Fungsional dengan Integrasi Strategi Bisnis Modern"**
 - **Mahasiswa Utama:** Reishya Damayanti Kirani Putri (NIM: 209250230)
