@@ -10,7 +10,7 @@ Tugas Proyek UAS: **"Membangun Website E-Commerce Fungsional dengan Integrasi St
 ## 📋 1. Profil Bisnis & Proposisi Nilai (Value Proposition)
 
 ### Profil Bisnis
-**MiniSweet Co.** adalah bisnis kuliner (F&B) modern yang fokus memproduksi dan menjual dessert (hidangan penutup) berukuran mini berkualitas premium secara langsung ke pelanggan (Direct-to-Consumer / D2C) melalui platform e-commerce terintegrasi. 
+**Mini Bites** adalah bisnis kuliner (F&B) modern yang fokus memproduksi dan menjual dessert (hidangan penutup) berukuran mini berkualitas premium secara langsung ke pelanggan (Direct-to-Consumer / D2C) melalui platform e-commerce terintegrasi. 
 
 ### Proposisi Nilai (Value Proposition)
 1. **Guilt-Free Mini Portion (Porsi Bebas Penyesalan):** Menyajikan dessert dalam ukuran mini (diameter 6-7 cm, berat 80-120 gram) dengan kalori terkontrol (130-220 kkal). Sangat cocok bagi gaya hidup sehat perkotaan yang ingin memanjakan hasrat manis tanpa khawatir kalori berlebih atau makanan terbuang.
